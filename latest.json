@@ -1,0 +1,24 @@
+{
+  "version": "0.2.51",
+  "min_version": null,
+  "released_at": "2026-11-27T15:12:01+00:00",
+  "notes": [
+    "Medical certificate: 'Print as' = Paragraph | List only (owner: 'SO paragraph | List ... if List Numbers|bullets'). One line removed (UI, print path, detection). Paragraph = the free-text box printed as typed; List = 'List style: Numbers | Bullets' (default Numbers) + 5+ rows and '+ Add line'. Empty/new = List + Numbers; on reload text with N) / N. / • markers = List, anything else (';' too) = Paragraph; MedCertHtmlOptions/MedCertData DiagnosisOneLine removed, enum DiagnosisLayout { Lines, Paragraph }; fresh controls, UiTurn.Next redraw; golden + tests"
+  ],
+  "mac_arm64": {
+    "url": "https://raw.githubusercontent.com/jessiejek/Project02-releases/main/downloads/ClinicNode-0.2.51-arm64.zip",
+    "sha256": "9a4da112787fd448c91f1b2a6d90379827e7f5367c1c6159bf0e82e822d4b36f",
+    "size": 55560053
+  },
+  "mac_arm64_dmg": {
+    "url": "https://raw.githubusercontent.com/jessiejek/Project02-releases/main/downloads/ClinicNode-0.2.51-arm64.dmg",
+    "sha256": "100f9694faeddd7cc2bd5c912bd219c4b4002b8b79553fe909b384d0ba071c66",
+    "size": 62595549
+  },
+  "rollout_percent": 100,
+  "win_x64": {
+    "url": "https://raw.githubusercontent.com/jessiejek/Project02-releases/main/downloads/ClinicNode-Setup-0.2.51.exe",
+    "sha256": "311d3a6237a8c39bfb41c8119e2c67686861a114cb43c9fbca4a68ab75fa3d89",
+    "size": 79890137
+  }
+}
